@@ -2,14 +2,17 @@ Achaea:
   label: Acaia
   wikidata: Q204772
   location: [38.72, 22.54]
+  type: province
 Aegyptus:
   label: Aegyptus
   wikidata: Q202311
   location: [28.0, 32.1]
+  type: province
 Africa
   label: Africa
   wikidata: Q181238
   location: [34.8, 9.4]
+  type: province
 Alpes Cottiae
 Alpes Maritimae
 Alpes Poeninae
